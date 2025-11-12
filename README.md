@@ -7,9 +7,6 @@ this is the team project created by::\
 |----------------------|-----------------------------------------------|---------------------------------------------|
 | Jayesh Bharava       | Leader, Backend Developer,Project Planning, Presentation                      | NodeJS, ExpressJS, MongoDB |
 | Vatsal Bhatti        | Frontend Developer                             | ReactJS, Tailwind                           |
-| Aditi Ajudia         | UI/UX Designer                                 | Figma                                       |
 | Dev Prajapati         | Frontend Developer                             | ReactJS, Tailwind                           |
-| Devanshu Prajpati     | UI/UX Designer                                 |                                             |
-| Vatsal Patel          | Project Research, Project Planning             |                                             |
 | Aastha Panchasara    | Content Writing, Logo Design, Presentation    |                                             |
 
